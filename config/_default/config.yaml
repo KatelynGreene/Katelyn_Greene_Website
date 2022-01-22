@@ -72,7 +72,7 @@ security:
   #######
   ## KAG Modified 
   #######
-  frontmatter:
+frontmatter:
   date:
   - date
   - publishDate
