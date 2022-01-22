@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a 5th year Biomedical Engineering PhD student studying bone and muscle changes in (1) astronauts during long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
+I'm a 5th year Biomedical Engineering PhD candidate studying bone and muscle changes in (1) astronauts during long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
 
 I am supported by an NIH Ruth L. Kirschstein Predoctoral Fellowship (NRSA F31) from the National Institute on Aging. 
 
