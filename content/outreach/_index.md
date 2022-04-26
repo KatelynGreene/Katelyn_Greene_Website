@@ -14,7 +14,7 @@ As an engineer, I believe it is one of my core responsibilities to inspire the n
 I enjoy visiting classrooms and school science events to give demos, serve as a guest speaker, and judge student projects. 
 
 ### North Carolina Science Festival IMPACTS Program
-Selected for 2019-2020 Piedmont Triad cohort of the Inspiring Meaningful Programs and Communication Through Science ([IMPACTS](https://www.ncsciencefestival.org/IMPACTS)) Program, a statewide science communication training and outreach initiative based on the NSF Portal to the Public curriculum and funded by the North Carolina GlaxoSmithKline Foundation. As part of my training, I am designing and implementing K-12 STEM outreach events for classroom visits, community events, and science festivals across North Carolina. 
+Selected for 2019-2020 Piedmont Triad cohort of the Inspiring Meaningful Programs and Communication Through Science ([IMPACTS](https://www.ncsciencefestival.org/IMPACTS)) Program, a statewide science communication training and outreach initiative based on the NSF Portal to the Public curriculum and funded by the North Carolina GlaxoSmithKline Foundation. As part of my training, I designed and implemented K-12 STEM outreach events for classroom visits, community events, and science festivals across North Carolina. 
 ![IMPACTS program t-shirt](impacts.jpg)
 
 #### IMPACTS - Novozymes SciMatch Classroom Visit

@@ -33,6 +33,12 @@ Graduate Advisor: [Ashley Weaver, PhD](https://school.wakehealth.edu/Faculty/W/A
 Learn more about the project [here](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7540) 
 
 ### Publications from this project: 
+
+Change in Lumbar Muscle Size and Composition on MRI with Long-Duration Spaceflight. <br/>
+**Greene KA**, Tooze JA, Lenchik L, Weaver AA. <br/>
+*Annals of Biomedical Engineering*. April 8, 2022.
+https://rdcu.be/cLV3T
+
 Trunk Skeletal Muscle Changes on CT with Long-Duration Spaceflight. <br/>
 **Greene KA**, Withers SS, Lenchik L, Tooze JA, Weaver AA. <br/>
 *Annals of Biomedical Engineering*. February 21, 2021.
