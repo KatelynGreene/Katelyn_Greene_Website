@@ -18,6 +18,7 @@ bio: I'm a biomedical engineering graduate student using image analysis to study
 
 # Interests to show in About widget
 interests:
+- Digital Health
 - Biomechanics
 - Data Analytics
 - Aging and Health Tech
@@ -72,9 +73,9 @@ highlight_name: true
 
 I'm a biomedical engineering graduate researcher studying bone and muscle changes in (1) astronauts during long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
 
-I am aiming to transition into postgraduate rotational program and ultimately would like to pursue a product management career in health tech. I am interested in contributing to teams and technologies that leverage our abundance of health data to help people enjoy longer and healthier lives.
+I am aiming to transition into a postgraduate rotational program and ultimately would like to pursue a product management career in health tech. I am interested in contributing to teams and technologies that leverage our abundance of health data to help people enjoy longer and healthier lives.
 
-Beyond my engineering research, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. I aim to make science accessible for the broader public community and encourage the next generation of students to pursue careers in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
+Beyond my engineering research, I am also a trained science communicator and leader with expertise in organizing educational outreach activities. I aim to make science accessible for the broader public community and encourage the next generation of students to pursue careers in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
 
 I enjoy inline skating marathons, biking, hiking new trails, reading in my hammock, caring for my overflowing family of plants, and pretty much anything else that involves being outside!
 
