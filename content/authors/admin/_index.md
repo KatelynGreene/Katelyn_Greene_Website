@@ -6,22 +6,21 @@ title: Katelyn Greene
 superuser: true
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Biomedical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences
-  url: https://sbes.vt.edu
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a biomedical engineering graduate student using image analysis to study bone and muscle changes. I'm passionate about helping others understand research and inspiring the next generation of young scientists.
+bio: I'm a biomedical engineer with experience using image analysis to study bone and muscle changes. I'm excited to help others understand science and inspire the next generation of young scientists.
 
 # Interests to show in About widget
 interests:
-- Digital Health
-- Biomechanics
-- Data Analytics
+- Data Analytics & Visualization 
 - Aging and Health Tech
+- Digital Health
 
 # Education to show in About widget
 education:
@@ -71,13 +70,13 @@ email: ""
 highlight_name: true
 ---
 
-I'm a biomedical engineering graduate researcher studying bone and muscle changes in (1) astronauts during long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
+I'm a biomedical engineer with experience studying bone and muscle health among astronauts and older adults. 
 
-I am aiming to transition into a postgraduate rotational program and ultimately would like to pursue a product management career in health tech. I am interested in contributing to teams and technologies that leverage our abundance of health data to help people enjoy longer and healthier lives.
+I am aiming to transition into a career in biotech or health tech. I'm excited about leveraging our abundance of digital health & wellness data to help individuals enjoy longer and healthier lives.
 
-Beyond my engineering research, I am also a trained science communicator and leader with expertise in organizing educational outreach activities. I aim to make science accessible for the broader public community and encourage the next generation of students to pursue careers in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
+Beyond my work, I am also a trained science communicator. I aim to make science accessible for the broader public community and encourage the next generation of students to pursue careers in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
 
-I enjoy inline skating marathons, biking, hiking new trails, reading in my hammock, caring for my overflowing family of plants, and pretty much anything else that involves being outside!
+I enjoy inline skating, biking, hiking new trails, reading in my hammock, caring for my overflowing family of plants, and pretty much anything else that involves being outside!
 
 <!-- Include a link to download resume -->
 

@@ -10,15 +10,13 @@ header:
 ---
 
 ## **Long-Term Effects of Weight Loss and Supplemental Protein on Older Adult Bone Health**
-### (PhD Research Project: 2017-2022)
+### (PhD Research Project: 2017-2023)
 
 Despite remarkable improvements in physiological and cardiometabolic indices, mounting evidence suggests weight loss increases skeletal fragility and fracture risk in older populations. This clinical research uses noninvasive computational biomechanics tools to comprehensively assess bone health and predict fracture in obese older adults who undergo a weight-loss intervention involving caloric restriction, supervised exercise, and randomization to receive either a high protein or low protein diet. The results of this study could establish the plausibility of protein supplementation as a clinically relevant therapeutic for attenuating bone loss and mitigating fracture risk in older adults undergoing intentional weight loss. 
 
 My graduate research focuses on developing image analysis and finite element modeling tools to process the imaging data from the above project. I am supported by an NIH Ruth L. Kirschstein Predoctoral Fellowship (NRSA F31) from the National Institute on Aging.
 
 This research is supported by NIH F31-AG069414, NIH K25-AG058804, and NIH R01-AG050656. 
-
-Graduate Advisor: [Ashley Weaver, PhD](https://school.wakehealth.edu/Faculty/W/Ashley-Anne-Weaver)
 
 ## **Vertebral Strength and Injury Risk Following Spaceflight**
 ### (Master's Research Project: 2017-2020)
@@ -27,8 +25,6 @@ Graduate Advisor: [Ashley Weaver, PhD](https://school.wakehealth.edu/Faculty/W/A
 Prolonged periods of microgravity exposure can damage astronauts’ musculoskeletal system, increasing their risk of vertebral injuries including fracture. A portion of this research focuses on measuring the degradation of astronauts’ vertebrae and spinal muscles during missions aboard the International Space Station (ISS). We use this data to create human body computational models that simulate crewmember injury risk in the spine during spacecraft launch and landing. 
 
 This research is supported by NASA NNX16AP89G.
-
-Graduate Advisor: [Ashley Weaver, PhD](https://school.wakehealth.edu/Faculty/W/Ashley-Anne-Weaver)
 
 Learn more about the project [here](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7540) 
 
