@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Biomedical Engineering
+    institution: Virginia Tech and Wake Forest University
+    year: 2023
   - course: MS in Biomedical Engineering
     institution: Virginia Tech and Wake Forest University
     year: 2020
