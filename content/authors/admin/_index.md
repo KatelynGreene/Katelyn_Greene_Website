@@ -55,9 +55,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=jlZjbwQAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/KatelynGreene
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/KatelynGreene
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
