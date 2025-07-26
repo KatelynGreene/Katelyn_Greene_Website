@@ -46,9 +46,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/katelynagreene
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/KatelynAGreene
+#   - icon: twitter
+#     icon_pack: fab
+#     link: 
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4150-3451
