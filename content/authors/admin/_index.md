@@ -73,11 +73,9 @@ email: ""
 highlight_name: true
 ---
 
-I'm a biomedical engineer with experience using medical imaging to characterize bone and muscle health among astronauts and older adults. 
+I'm a biomedical engineer currently working as a regulatory affairs specialist in the medical device industry. I'm most excited about digital health & wellness technologies that help individuals enjoy longer and healthier lives. Previously as a graduate researcher, I specialized in using medical imaging to characterize bone and muscle health among astronauts and older adults. 
 
-I am aiming to transition into a career in biotech or health tech. I'm excited about leveraging our abundance of digital health & wellness data to help individuals enjoy longer and healthier lives.
-
-Beyond my work, I am also a trained science communicator. I aim to make science accessible for the broader public and encourage the next generation of students to pursue careers in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
+Beyond my work, I am also a trained science communicator. I'm passionate about making science accessible for the broader public and inspiring the next generation of students to pursue STEM careers. 
 
 I enjoy inline skating, biking, hiking new trails, reading in my hammock, caring for my overflowing family of plants, and pretty much anything else that involves being outside!
 
