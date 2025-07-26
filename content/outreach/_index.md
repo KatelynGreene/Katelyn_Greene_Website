@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 
-As an engineer, I believe it is one of my core responsibilities to inspire the next generation of young scientists and engineers through low-pressure fun activities that encourage STEM literacy and problem solving. I have become especially interested in learning how to support and advocate for students from underrepresented groups, especially those from schools with limited access to in-class science curricula and to after-school STEM clubs. 
+As an engineer, I believe it is one of my core responsibilities to inspire the next generation of young scientists and engineers through low-pressure fun activities that encourage STEM literacy and problem solving. I am especially interested in supporting students from schools with limited access to in-class science curricula and to after-school STEM clubs. 
 
 ## K-12 School Outreach
 I enjoy visiting classrooms and school science events to give demos, serve as a guest speaker, and judge student projects. 
@@ -27,7 +27,7 @@ Below is a picture from 2019 Petree Elementary STEM Night, where I brought 3D pr
 ![STEM outreach with students](outreach_petree_2019.jpg)
 
 ### Girls and Boys Club Science Hour
-In July of 2019, I designed and ran an hour long introduction to Biomedical Engineering for the Winston-Salem Boys & Girls Club in collaboration with our university's scientific communication group, Wake Up To Science. We guided the kids through designing and building a functional biomechanical arm in order to show them how engineering can be used to make devices, like prosthetics, that help individuals in need. Guest speaker, [Rayonna Gordon](https://www.linkedin.com/in/rayonna-gordon/) (pictured below) also led an active discussion with them on the applicability of biomedical engineering to helping low-resource communities worldwide.
+In July of 2019, I designed and ran an hour long introduction to Biomedical Engineering for the Winston-Salem Boys & Girls Club in collaboration with our university's scientific communication group, Wake Up To Science. We guided the kids through designing and building a functional biomechanical arm in order to show them how engineering can be used to make devices, like prosthetics, that help individuals in need. Guest speaker, [Rayonna Gordon](https://www.linkedin.com/in/rayonna-gordon/) (pictured below) also led an active discussion with them on the applicability of biomedical engineering to helping communities worldwide.
 
 ![Making Biomechanical Arms with young students](biomechanical_arm_2019.jpg)
 
@@ -42,7 +42,7 @@ Around 100 high school students from across the country visited the department o
 ![Students in biomechanics lab](WFU_Immersion_1.jpg)
 
 ### Letters to a Pre-Scientist Pen pal
-Trained pen pal for national non-profit [Letters to a Pre-Scientist](https://www.prescientist.org/) program that seeks to demystify science careers by connecting students and classrooms in low-income communities with real scientists and engineers through regular letter exchanges. My current student is located in Santa Maria, California. 
+Trained pen pal for national non-profit [Letters to a Pre-Scientist](https://www.prescientist.org/) program that seeks to demystify science careers by connecting students and classrooms with scientists and engineers through regular letter exchanges. I've exchanged letters with students from several different states across the US.  
 ![Letter from a young student](pre-scientist.jpg)
 
 ## FIRST Robotics
@@ -55,7 +55,7 @@ In October 2019, I served as head judge at the annual Winston-Salem Robot Run, w
 ![STEM outreach with robotics students](outreach_RobotRun_2018.jpg)
 
 ## Women in STEM
-By the time girls reach high school, they've generally already formed an idea of whether they'd fit into a STEM career. It's my goal to expose girls to the opportunities they have in STEM by connecting them to successful women in all career stages. As a graduate of one of the top engineering universities in the world (Go Bears!) and now a engineering PhD candidate, I'm passionate about serving as a role model for young girls. 
+By the time girls reach high school, they've generally already formed an idea of whether they'd fit into a STEM career. It's my goal to expose girls to the opportunities they have in STEM by connecting them to successful women in all career stages.  
 
 ### Regan High School Women in BME Day
 In May 2019, I alongside a fellow PhD student [Andrea Mazzocchi](https://twitter.com/A_Mazzocchi) organized an afternoon visit to the Biomedical Engineering Department at the Wake Forest School of Medicine. We gave the high school students an overview of the career paths in biomedical engineering, hosted a graduate student panel, and led them on group tours of the research labs. 
@@ -64,12 +64,12 @@ In May 2019, I alongside a fellow PhD student [Andrea Mazzocchi](https://twitter
 ![Women in BME Student Panel](outreach_regan_2019_2.jpg)
 
 ### Girls Who Code
-I am a co-facilitator of the Girls Who Code club at the Malloy/Jordan East Winston Heritage Center.  I have experience both developing and teaching project-based curricula to teach elementary and middle school aged girls the fundamentals of computer science and coding syntax. Below is a picture of one of our facilitators, [Madison](https://www.linkedin.com/in/l-madison-kirk-7556b0148/), teaching the girls about loops! 
+I am a co-facilitator of the Girls Who Code club at the Malloy/Jordan East Winston Heritage Center.  I have experience both developing and teaching project-based curricula to teach elementary and middle schoolers the fundamentals of computer science and coding syntax. Below is a picture of one of our facilitators, [Madison](https://www.linkedin.com/in/l-madison-kirk-7556b0148/), teaching the students about loops! 
 
 ![Girls who Code Meeting](outreach_GWC_2019.jpg)
 
 ### Perry Initiative
-The [Perry Initiative](https://perryinitiative.org) is an phenomenal program that travels around the country to run hands-on outreach programs for women students in high school, college, and medical school. 
+The [Perry Initiative](https://perryinitiative.org) is an phenomenal program that travels around the country to run hands-on outreach programs for students in high school, college, and medical school. 
 
 In 2018 and 2019, I assisted as an on-site volunteer at the Wake Forest School of Medicine location along with several other students and faculty in Biomedical Engineering and Orthopaedic Surgery. This one-day workshop to introduces young women in high school to fracture fixation techniques and power tools and encourages them to pursue careers in engineering and orthopaedic medicine. 
 
