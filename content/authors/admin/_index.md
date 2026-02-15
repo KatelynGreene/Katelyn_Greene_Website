@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a biomedical engineer currently working as a regulatory affairs specialist in the medical device industry. I'm most excited about digital health & wellness technologies that help individuals enjoy longer and healthier lives. Previously as a graduate researcher, I specialized in using medical imaging to characterize bone and muscle health among astronauts and older adults. 
+I'm a biomedical engineer currently working as a regulatory scientist in the medical device industry. I'm most excited about digital health & wellness technologies that help individuals enjoy longer and healthier lives. Previously as a graduate researcher, I specialized in using medical imaging to characterize bone and muscle health among astronauts and older adults. 
 
 Beyond my work, I am also a trained science communicator. I'm passionate about making science accessible for the broader public and inspiring the next generation of students to pursue STEM careers. 
 
