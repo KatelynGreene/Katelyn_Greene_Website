@@ -19,7 +19,7 @@ bio: I'm a biomedical engineer with experience using image analysis to study bon
 # Interests to show in About widget
 interests:
 - Clinical & Regulatory Affairs
-- Aging and Health Tech
+- Healthy Aging
 - Digital Health
 
 # Education to show in About widget
