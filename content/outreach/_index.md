@@ -58,7 +58,7 @@ I have served as the head judge at the annual Winston-Salem Robot Run, which bri
 By the time girls reach high school, they've generally already formed an idea of whether they'd fit into a STEM career. It's my goal to expose girls to the opportunities they have in STEM by connecting them to successful women in all career stages.  
 
 ### Regan High School Women in BME Day
-In May 2019, I alongside a fellow PhD student [Andrea Mazzocchi](https://twitter.com/A_Mazzocchi) organized an afternoon visit to the Biomedical Engineering Department at the Wake Forest School of Medicine. We gave the high school students an overview of the career paths in biomedical engineering, hosted a graduate student panel, and led them on group tours of the research labs. 
+I alongside a fellow PhD student [Andrea Mazzocchi](https://twitter.com/A_Mazzocchi) organized an afternoon visit to the Biomedical Engineering Department at the Wake Forest School of Medicine. We gave the high school students an overview of the career paths in biomedical engineering, hosted a graduate student panel, and led them on group tours of the research labs. 
 
 ![Women in BME Lab Group Picture](outreach_regan_2019_3.jpg)
 ![Women in BME Student Panel](outreach_regan_2019_2.jpg)
@@ -79,7 +79,7 @@ For several years, I assisted as an on-site volunteer at the Wake Forest School 
 ## Science Outreach for all ages in the community
 
 ### The Science of Winston-Salem (TSOWS)
-Partner and student representative for a new non-profit initiative that uses arts, pop culture, and storytelling to organize and promote opportunities for informal STEM learning among all members of the Winston-Salem community.
+Partner and student representative for a non-profit initiative that uses arts, pop culture, and storytelling to organize and promote opportunities for informal STEM learning among all members of the Winston-Salem community.
 
 ![Logo for The Science of Winston-Salem](TSOWS_Logo.png)
 
