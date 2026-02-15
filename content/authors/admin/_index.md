@@ -18,7 +18,7 @@ bio: I'm a biomedical engineer with experience using image analysis to study bon
 
 # Interests to show in About widget
 interests:
-- Data Analytics & Visualization 
+- Clinical & Regulatory Affairs
 - Aging and Health Tech
 - Digital Health
 
@@ -49,12 +49,12 @@ social:
 #   - icon: twitter
 #     icon_pack: fab
 #     link: 
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-4150-3451
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=jlZjbwQAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4150-3451
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/KatelynGreene
